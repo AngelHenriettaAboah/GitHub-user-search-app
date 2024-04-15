@@ -6,4 +6,4 @@ export default defineConfig({
   plugins: [react()],
 });
 
-// A A Designs
+/* A A Designs */
